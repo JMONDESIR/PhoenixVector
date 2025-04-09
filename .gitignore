@@ -1,0 +1,71 @@
+# =============== #
+#  Operating System
+# =============== #
+.DS_Store
+Thumbs.db
+
+# =============== #
+#  Visual Studio
+# =============== #
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+ExportedObj/
+.consulo/
+
+# =============== #
+# JetBrains Rider
+# =============== #
+*.DotSettings.user
+*.ReSharper
+*._ReSharper.Caches/
+
+# =============== #
+#  Unity Generated
+# =============== #
+Library/
+Library/*
+Temp/
+Temp/*
+Obj/
+Obj/*
+Build/
+Builds/
+Logs/
+Logs/*
+UserSettings/
+MemoryCaptures/
+*.apk
+*.symbols.zip
+*.unitypackage
+
+# Crash & Error Reports
+sysinfo.txt
+*/Unity/Editor/Collab/Error/
+
+# =============== #
+#  Packages
+# =============== #
+# Uncomment if you want to ignore the entire Packages folder.
+# Packages/
+
+# If needed, ignore lock files (prevent conflicts)
+Packages/packages-lock.json
+Packages/manifest.json
+
+# =============== #
+#  Additional
+# =============== #
+# Auto-created files by Unity (optional).
+# .vs/
+# .vscode/
